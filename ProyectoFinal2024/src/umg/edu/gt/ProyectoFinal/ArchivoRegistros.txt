@@ -1,0 +1,4 @@
+000000001,Julio,Mazariegos,41526352,julio.mazariegos@gmail.com
+000000002,Mario,Mazariegos,52635245,mario.mazariegos@gmail.com
+000000003,Jorge,Perez,52635241,jorge.perez@hotmail.com
+000000004,Jason,Vega,55162493,jvegam@umg.edu.gt
